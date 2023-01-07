@@ -6,9 +6,9 @@
 ### **:cactus: Process**
 1. Construct dataset
 
-	1. Collect the browsing behavior data of all customers in previous month before the expected advertising time point.
-	2. Divide customers into key customers and potential customers. Key customers are those who have ever entered the order payment page of the products that are expected to be advertised.
-	3. Created fields: customers' website browsing frequency, number of purchases and product preference, etc.	
+	> 1. Collect the browsing behavior data of all customers in previous month before the expected advertising time point.
+	> 2. Divide customers into key customers and potential customers. Key customers are those who have ever entered the order payment page of the products that are expected to be advertised.
+	> 3. Created fields: customers' website browsing frequency, number of purchases and product preference, etc.	
 	
 2. Clustering
 	> 1. cluster the key customers.
