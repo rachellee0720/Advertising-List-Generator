@@ -23,7 +23,7 @@
 
 2. Compared with the performance of manually setting the advertising conditions, this model had a &nbsp;***higher click through rate (CTR)***&nbsp; and a &nbsp;***lower cost per click (CPC)***.
 
-----
+&nbsp;
 
 
 # 廣告名單產生器：KMeans
