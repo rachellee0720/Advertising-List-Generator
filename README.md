@@ -1,4 +1,4 @@
-# Advertising List Generator: KMeans
+# Advertising List Generator: K-means
 
 ## :dart: Goal
 1. to find out &nbsp;***customers***&nbsp; who are &nbsp;***interested***&nbsp; in the &nbsp;***products***&nbsp; that are expected to be advertised.
@@ -12,7 +12,7 @@
 	
 2. **Clustering**
 	> 1. Cluster the key customers.
-	> 2. Used model is KMeans, and select the number of clusters through elbow method.
+	> 2. Used model is K-means, and select the number of clusters through elbow method.
 	> 3. Find the most loyal key customers cluster through the average value of each column in dataset of each cluster.
 		
 3. **Produce the advertising list**
@@ -26,7 +26,7 @@
 &nbsp;
 
 
-# 廣告名單產生器：KMeans
+# 廣告名單產生器：K-means
 ## :dart: 目標
 
 1. 找出對該次預計&nbsp;**投放廣告之商品有興趣的顧客**。
@@ -40,7 +40,7 @@
 	
 2. **模型分群**
 	> 1. 將關鍵顧客進行分群。
-	> 2. 使用模型：KMeans，且透過Elbow Method選擇分群數。
+	> 2. 使用模型：K-means，且透過Elbow Method選擇分群數。
 	> 3. 透過每群的欄位平均值尋找忠誠度最高之關鍵顧客群。
 	
 3. **產出名單**
